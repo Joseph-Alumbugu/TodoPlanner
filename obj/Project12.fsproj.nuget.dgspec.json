@@ -50,32 +50,32 @@
             },
             "WebSharper": {
               "target": "Package",
-              "version": "[6.1.5.317, )",
+              "version": "[7.0.6.458-beta5, )",
               "generatePathProperty": true
             },
             "WebSharper.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.5.317, )",
+              "version": "[7.0.6.458-beta5, )",
               "generatePathProperty": true
             },
             "WebSharper.FSharp": {
               "target": "Package",
-              "version": "[6.1.5.317, )",
+              "version": "[7.0.6.458-beta5, )",
               "generatePathProperty": true
             },
             "WebSharper.Forms": {
               "target": "Package",
-              "version": "[6.1.1.269, )",
+              "version": "[7.0.4.454-beta5, )",
               "generatePathProperty": true
             },
             "WebSharper.MathJS": {
               "target": "Package",
-              "version": "[6.1.5.317, )",
+              "version": "[7.0.6.454-beta5, )",
               "generatePathProperty": true
             },
             "WebSharper.UI": {
               "target": "Package",
-              "version": "[6.1.4.317, )",
+              "version": "[7.0.4.458-beta5, )",
               "generatePathProperty": true
             }
           },

@@ -1,8 +1,36 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\Content\\Project12.css",
+      "PackagePath": "staticwebassets\\Content\\Project12.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\Content\\Project12.head.html",
+      "PackagePath": "staticwebassets\\Content\\Project12.head.html"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\Content\\Project12.head.js",
+      "PackagePath": "staticwebassets\\Content\\Project12.head.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\Content\\Project12.js",
+      "PackagePath": "staticwebassets\\Content\\Project12.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\Content\\Project12.min.js",
+      "PackagePath": "staticwebassets\\Content\\Project12.min.js"
+    },
+    {
       "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\img.jpg",
       "PackagePath": "staticwebassets\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\img\\todolist1.jpeg",
+      "PackagePath": "staticwebassets\\img\\todolist1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\img\\todolist2.jpeg",
+      "PackagePath": "staticwebassets\\img\\todolist2.jpeg"
     },
     {
       "Id": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\index.html",

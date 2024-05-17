@@ -1,0 +1,24 @@
+2024-05-17 15:06:38.4992|DEBUG|Program|location of wsfscservice is: C:\Users\josep\.nuget\packages\websharper.fsharp\7.0.6.458-beta5\tools\net6.0\win-x64 (server side)
+2024-05-17 15:06:38.5191|DEBUG|Program|pipename is: C:\Users\josep\.nuget\packages\websharper.fsharp\7.0.6.458-beta5\tools\net6.0\win-x64 (server side)
+2024-05-17 15:06:38.5191|DEBUG|Program|Compiling C:\Users\josep\source\repos\Project12\Project12.fsproj
+2024-05-17 15:06:45.9715|TRACE|Program|Server sends: n: F# compilation: 00:00:07.5341496
+2024-05-17 15:06:49.3077|TRACE|Program|Server sends: n: Checking project: 00:00:03.3420545
+2024-05-17 15:06:49.3077|TRACE|Program|Server sends: n: Waiting on merged metadata: 00:00:00.0022978
+2024-05-17 15:06:49.7267|TRACE|Program|Server sends: n: Parsing with FCS: 00:00:00.4167072
+2024-05-17 15:06:49.7303|TRACE|Program|Server sends: n: Analyzing function arguments: 00:00:00.0035408
+2024-05-17 15:06:49.8084|TRACE|Program|Server sends: n: Resolving names: 00:00:00.0781327
+2024-05-17 15:06:50.0935|TRACE|Program|Server sends: n: WebSharper translation: 00:00:00.2850844
+2024-05-17 15:06:50.1301|TRACE|Program|Server sends: n: Source position transformations: 00:00:00.0366339
+2024-05-17 15:06:50.2059|TRACE|Program|Server sends: n: Packaging assembly: 00:00:00.0757905
+2024-05-17 15:06:50.3235|TRACE|Program|Server sends: n: Computing metadata: 00:00:00.1176448
+2024-05-17 15:06:50.4321|TRACE|Program|Server sends: n: Writing Project12.PersonPets.Category.js: 00:00:00.1085794
+2024-05-17 15:06:50.4321|TRACE|Program|Server sends: n: Writing Project12.PersonPets.Todo.js: 00:00:00.0013797
+2024-05-17 15:06:50.4321|TRACE|Program|Server sends: n: Writing Project12.PersonPets.Person.js: 00:00:00.0015771
+2024-05-17 15:06:50.4321|TRACE|Program|Server sends: n: Writing Project12.PersonPets.js: 00:00:00.0017674
+2024-05-17 15:06:50.4321|TRACE|Program|Server sends: n: Writing $EntryPoint.js: 00:00:00.0010476
+2024-05-17 15:06:50.4692|TRACE|Program|Server sends: n: Writing .d.ts files: 00:00:00.0313061
+2024-05-17 15:06:50.4819|TRACE|Program|Server sends: n: Hashing resources: 00:00:00.0127416
+2024-05-17 15:06:50.9235|TRACE|Program|Server sends: n: Serializing metadata: 00:00:00.4415540
+2024-05-17 15:06:51.0792|TRACE|Program|Server sends: n: Writing resources into assembly: 00:00:00.1556545
+2024-05-17 15:06:51.3953|TRACE|Program|Server sends: n: Bundling: 00:00:00.3161999
+2024-05-17 15:06:51.4107|TRACE|Program|Server sends: x: 0

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RA5KMakO6Qy4O6hk2kAz5cdYyvPDuOyX4m8voqLOg49rmBTRvPAug565tTxyXbgAEAqrk9sfObYRV1XZSCoNCw==",
+  "dgSpecHash": "Ns6nvUZgZkvjDXi4bMEbAVSQTnWbvq+1nf7VSokui9NinJ3LeOEiRWVVpnNv3J+eHFQ7Ou6Z+0tH9EY5qV8KVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\josep\\source\\repos\\Project12\\Project12.fsproj",
   "expectedPackageFiles": [
@@ -89,12 +89,12 @@
     "C:\\Users\\josep\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper\\6.1.5.317\\websharper.6.1.5.317.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper.aspnetcore\\6.1.5.317\\websharper.aspnetcore.6.1.5.317.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper.forms\\6.1.1.269\\websharper.forms.6.1.1.269.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper.fsharp\\6.1.5.317\\websharper.fsharp.6.1.5.317.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper.mathjs\\6.1.5.317\\websharper.mathjs.6.1.5.317.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\websharper.ui\\6.1.4.317\\websharper.ui.6.1.4.317.nupkg.sha512"
+    "C:\\Users\\josep\\.nuget\\packages\\websharper\\7.0.6.458-beta5\\websharper.7.0.6.458-beta5.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\websharper.aspnetcore\\7.0.6.458-beta5\\websharper.aspnetcore.7.0.6.458-beta5.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\websharper.forms\\7.0.4.454-beta5\\websharper.forms.7.0.4.454-beta5.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\websharper.fsharp\\7.0.6.458-beta5\\websharper.fsharp.7.0.6.458-beta5.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\websharper.mathjs\\7.0.6.454-beta5\\websharper.mathjs.7.0.6.454-beta5.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\websharper.ui\\7.0.4.458-beta5\\websharper.ui.7.0.4.458-beta5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -69,3 +69,4 @@ C:\Users\josep\source\repos\Project12\obj\Debug\net6.0\Project12.fsproj.Up2Date
 C:\Users\josep\source\repos\Project12\obj\Debug\net6.0\Project12.dll
 C:\Users\josep\source\repos\Project12\obj\Debug\net6.0\Project12.pdb
 C:\Users\josep\source\repos\Project12\obj\Debug\net6.0\Project12.genruntimeconfig.cache
+C:\Users\josep\source\repos\Project12\obj\Debug\net6.0\Project12.sourcelink.json
