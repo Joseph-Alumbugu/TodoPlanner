@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Eu8wOzjt61CfBaFONs8XD+yre66Kw9vhVe4VG/V6pEE=",
+  "Source": "Project12",
+  "BasePath": "_content/Project12",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project12\\wwwroot",
+      "Source": "Project12",
+      "ContentRoot": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\",
+      "BasePath": "_content/Project12",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\img.jpg",
+      "SourceId": "Project12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\",
+      "BasePath": "_content/Project12",
+      "RelativePath": "img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\index.html",
+      "SourceId": "Project12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\source\\repos\\Project12\\wwwroot\\",
+      "BasePath": "_content/Project12",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
