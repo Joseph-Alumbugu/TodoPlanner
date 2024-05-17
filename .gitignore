@@ -1,2 +1,8 @@
 .vs
-bin/
+bin/*
+obj/*
+
+appsettings.Development.json
+appsettings.json
+websharper.log
+wsconfig.json
