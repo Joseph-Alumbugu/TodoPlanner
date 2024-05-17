@@ -23,7 +23,7 @@ jobs:
         run: |
           dotnet nuget add source https://nuget.pkg.github.com/dotnet-websharper/index.json \
             --name github \
-            --username granicz \
+            --username Joseph-Alumbugu \
             --password "${{ secrets.WEBSHARPER_FEED }}" \
             --store-password-in-clear-text
 
